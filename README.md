@@ -19,3 +19,6 @@ To understand the elements we obtained, please follow the following steps:
 5. [NLP_Project_report.pdf](NLP_Project_report.pdf) describes the strategy adopted to solve the project's problem as well as the axes of perspective
 
 
+This work was done by Clément Préault and Adrien Golebiewski - Master IASD 2022/2023
+
+
