@@ -10,9 +10,12 @@ To understand the elements we obtained, please follow the following steps:
 
 1. Go to [https://drive.google.com/drive/folders/1jt8oipcC_61dJbt5d4YUEeZXsqGOk0OL?usp=sharing](https://drive.google.com/drive/folder /1jt8oipcC_61dJbt5d4YUEeZXsqGOk0OL?usp=sharing), to access to the exploited data for our study. They are also available from the hugging face website: https://huggingface.co/datasets/so_stacksample
 
-2. [preprocessing_numeric_features.ipynb.ipynb](preprocessing_numeric_features.ipynb.ipynb) allows you to do the features engineering task and add additional numerical data.
+2. [preprocessing_numeric_features.ipynb](preprocessing_numeric_features.ipynb) allows you to do the features engineering task and add additional numerical data.
 
-3. [so_numeric_final.ipynb](so_numeric_final.ipynb.ipynb) allows to launch the learning tasks, test several word embeddings approaches, tune the parameters of our models and obtain results.
+3. [so_numeric_final.ipynb](so_numeric_final.ipynb) allows to launch the learning tasks, test several word embeddings approaches, tune the parameters of our models and obtain results.
 
-4. [graphs.ipynb](graphs.ipynb) shows the training and validation performances of each model we trained
+4. The "ressources" folder shows numerical and graphic results of the project in image format
+
+5. [NLP_Project_report.pdf](NLP_Project_report.pdf) describes the strategy adopted to solve the project's problem as well as the axes of perspective
+
 
