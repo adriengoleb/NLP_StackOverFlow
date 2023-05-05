@@ -8,7 +8,7 @@ The basis of our work is an article from Levi Franklin titled "Predicting Closed
 To understand the elements we obtained, please follow the following steps:
 
 
-1. Go to [https://drive.google.com/drive/folders/1jt8oipcC_61dJbt5d4YUEeZXsqGOk0OL?usp=sharing](https://drive.google.com/drive/folder /1jt8oipcC_61dJbt5d4YUEeZXsqGOk0OL?usp=sharing), to access to the exploited data for our study. They are also available from the hugging face website: https://huggingface.co/datasets/so_stacksample
+1. Go to https://drive.google.com/drive/folders/1jt8oipcC_61dJbt5d4YUEeZXsqGOk0OL?usp=sharing, to access to the exploited data for our study. They are also available from the hugging face website: https://huggingface.co/datasets/so_stacksample
 
 2. [preprocessing_numeric_features.ipynb](preprocessing_numeric_features.ipynb) allows you to do the features engineering task and add additional numerical data.
 
