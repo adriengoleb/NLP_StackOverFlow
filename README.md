@@ -12,7 +12,7 @@ To understand the elements of this repository, please follow the following steps
 
 2. [preprocessing_numeric_features.ipynb](scripts/preprocessing_numeric_features.ipynb) allows you to do the features engineering task and add additional numerical data in our framework
 
-3. [so_numeric_final.ipynb](so_numeric_final.ipynb) allows to launch the learning tasks, test several word embeddings approaches, tune the parameters of our models and obtain results.
+3. [so_numeric_final.ipynb](scripts/so_numeric_final.ipynb) allows to launch the learning tasks, test several word embeddings approaches, tune the parameters of our models and obtain results.
 
 4. The "ressources" folder shows numerical and graphic results of the project in image format
 
